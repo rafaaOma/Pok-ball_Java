@@ -1,5 +1,6 @@
+![pokeball Drawing](image/pokeballoutput.png)
 # Pokéball Drawing – Java Graphics2D
-![pokeball Drawing](images/pokeballoutput.png)
+
 
 This project is a simple Java Swing application that draws a Pokéball using Java Graphics2D.
 
